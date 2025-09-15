@@ -1,9 +1,9 @@
-# Regional-Pandemic-Analysis-using-Excel
+# 🌍 Regional-Pandemic-Analysis-using-Excel
 A country-wise performance report on how different  nations handled the COVID-19 pandemic during 2020–2021
 
-## Objective
+## 🎯 Objective
 
-To identify patterns in the spread and recovery trends and communicate your findings in an easily understandable format.
+To identify patterns in the spread and recovery trends and communicate your findings in an easy understandable format.
 
 ## 📊 Dashboard Highlights
 
