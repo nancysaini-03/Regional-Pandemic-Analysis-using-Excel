@@ -24,7 +24,7 @@ To identify patterns in the spread and recovery trends and communicate your find
   
 ## Sneak Preview🫣
 
-![Covid-19_Dashboard](https://github.com/user-attachments/assets/be07ac44-9cbc-42f6-9351-889c56dce05c)
+<img width="1759" height="744" alt="Covid-19_Dashboard" src="https://github.com/user-attachments/assets/edfd3a97-e9a1-4db1-aefc-0406166f4024" />
 
 ---
 
